@@ -58,7 +58,7 @@
 
 ## 💬 Contáctame
 - 📧 **Email:** [marksevi@hotmail.com](mailto:marksevi@hotmail.com)
-- 💼 **LinkedIn:** (https://linkedin.com/in/Marcos Sevilla Miñana)
+- 💼 **LinkedIn:** ([https://linkedin.com/in/Marcos Sevilla Miñana](https://www.linkedin.com/in/marcos-sevilla-mi%C3%B1ana-89670432/)
 - 🌐 **Portafolio:** [En construccion](https://tu-portafolio.com)
 
 ---
