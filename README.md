@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Marcos Sevilla Miñana]
+# 👋 ¡Hola! Soy Marcos Sevilla Miñana
 
 🎯 **Product Manager | Especialista en Software, Desarrollo de Soluciones Digitales y tecnología RPA de automatización de Procesos | UX Enthusiast**
 
