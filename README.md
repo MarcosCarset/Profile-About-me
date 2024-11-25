@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Marcos Sevilla Miñana
+# 👋 ¡Hola! Soy Marcos Sevilla Miñana    
 
-🎯 **Product Manager | Especialista en Software, Desarrollo de Soluciones Digitales y tecnología RPA de automatización de Procesos | UX Enthusiast**
+![Perfil](https://github.com/user-attachments/assets/34e99c16-ecc3-48d9-a430-681ccebb21c4)
+
+🎯 **Senior Product Owner | Especialista en Software, Desarrollo de Soluciones Digitales y tecnología RPA de automatización de Procesos | UX Enthusiast**
 
 ---
 
@@ -34,15 +36,6 @@
 ### 🎨 [Prototipo UX/UI](enlace-al-repositorio)
 **Descripción breve:** [Rediseño de plataforma propia con la colaboración de empresa externa buscando la eficiencia para usuarios internos y externos a la empresa propiciando la automatización de procesos.]
 
----
-
-## 📸 Imagen Profesional
-
-![Mi Foto Profesional](URL-de-tu-foto-profesional-o-banner.png)
-
----
-
-## 🎨 Decoración y Estilo
 
 ### 🚀 Mis Valores
 - ✅ Innovación tecnológica
