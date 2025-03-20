@@ -10,7 +10,7 @@
 - 🌍 **Especialista en Softeware y tecnología RPA (UiPath)** para el desarrollo de herramientas digitales que automatizan procesos y optimizan la eficiencia operativa.
 - 🖌️ Apasionado por el diseño centrado en el usuario, con experiencia en **Figma** para crear interfaces funcionales y atractivas.
 - 💻 Desarrollador con conocimientos en **Python (Django)**, **React (Next.js)** y bases de datos **SQL**.
-- 📚 Orientado a la metodología de **Scrum Master**, liderando equipos ágiles para entregar soluciones escalables y de alta calidad.
+- 📚 Orientado a la metodología de **Scrum**, liderando equipos ágiles para entregar soluciones escalables y de alta calidad.
 - 🚀 Mi objetivo: **Combinar tecnología, diseño y metodologías ágiles para crear productos que resuelvan problemas reales y generen impacto.**
 
 ---
